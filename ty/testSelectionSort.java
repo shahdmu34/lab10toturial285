@@ -5,14 +5,14 @@ import org.junit.Test;
 public class testSelectionSort {
 @Test
 public void test() {
-testPositive();
-testNegative();
+//testPositive();
+//testNegative();
 testMixed();
 testDuplicates();
 }
     public testSelectionSort() {
     }
-    
+
     public void testMixed(){
     	 int[] arr = new int[5];
          arr[0] = -9;
